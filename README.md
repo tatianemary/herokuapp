@@ -35,5 +35,5 @@ Antes de executar os testes, certifique-se de ter os seguintes itens instalados:
 
 As Evidências se encontram dentro da pasta screenshot com os seguintes nomes:
 
-EVI_API_TEST_herokuapp_01.png
+EVI_API_TEST_herokuapp_01.png, 
 EVI_API_TEST_herokuapp_02.png
